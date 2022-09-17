@@ -1,19 +1,11 @@
-# Astro Starter Kit: Blog
+# astro-simple
 
-```
-npm init astro -- --template blog
-```
+A blog starter template with [Astro](https://github.com/withastro/astro) and [Simple.css](https://github.com/kevquirk/simple.css). Based on the [Astro blog example](https://github.com/withastro/astro/tree/main/examples/blog).
 
-[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/withastro/astro/tree/latest/examples/blog)
-
-> 🧑‍🚀 **Seasoned astronaut?** Delete this file. Have fun!
-
-
-![blog](https://user-images.githubusercontent.com/4677417/186189140-4ef17aac-c3c9-4918-a8c2-ce86ba1bb394.png)
+[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/lkhrs/astro-simple/tree/main/)
 
 Features:
 
-- ✅ Minimal styling (make it your own!)
 - ✅ 100/100 Lighthouse performance
 - ✅ SEO-friendly with canonical URLs and OpenGraph data
 - ✅ Sitemap support
@@ -54,11 +46,3 @@ All commands are run from the root of the project, from a terminal:
 | `npm run preview`      | Preview your build locally, before deploying     |
 | `npm run astro ...`    | Run CLI commands like `astro add`, `astro check` |
 | `npm run astro --help` | Get help using the Astro CLI                     |
-
-## 👀 Want to learn more?
-
-Check out [our documentation](https://docs.astro.build) or jump into our [Discord server](https://astro.build/chat).
-
-## Credit
-
-This theme is based off of the lovely [Bear Blog](https://github.com/HermanMartinus/bearblog/).
