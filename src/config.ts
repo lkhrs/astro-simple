@@ -3,3 +3,5 @@
 
 export const SITE_TITLE = 'My personal website.';
 export const SITE_DESCRIPTION = 'Welcome to my website!';
+
+// Remember to set your site URL in astro.config.mjs
