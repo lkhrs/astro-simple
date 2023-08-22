@@ -14,7 +14,7 @@
     "@astrojs/mdx": "^0.19.7",
     "@astrojs/rss": "^2.4.4",
     "@astrojs/sitemap": "^2.0.1",
-    "astro": "^2.10.7",
+    "astro": "^2.10.12",
     "date-fns": "^2.30.0",
     "simpledotcss": "^2.2.1"
   }
