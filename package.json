@@ -1,7 +1,7 @@
 {
   "name": "astro-simple",
   "type": "module",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "private": true,
   "scripts": {
     "dev": "astro dev",
@@ -11,11 +11,11 @@
     "astro": "astro"
   },
   "dependencies": {
-    "@astrojs/mdx": "^0.19.7",
-    "@astrojs/rss": "^2.4.4",
-    "@astrojs/sitemap": "^2.0.2",
+    "@astrojs/mdx": "^1.1.1",
+    "@astrojs/rss": "^3.0.0",
+    "@astrojs/sitemap": "^3.0.1",
     "astro": "^2.10.14",
-    "date-fns": "^2.30.0",
+    "date-fns": "^3.2.3",
     "simpledotcss": "^2.2.1"
   }
 }
