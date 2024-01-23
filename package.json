@@ -13,7 +13,7 @@
   "dependencies": {
     "@astrojs/mdx": "^2.0.4",
     "@astrojs/rss": "^4.0.2",
-    "@astrojs/sitemap": "^3.0.4",
+    "@astrojs/sitemap": "^3.0.5",
     "astro": "^4.2.2",
     "date-fns": "^3.2.0",
     "simpledotcss": "^2.2.1"
