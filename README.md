@@ -2,7 +2,7 @@
 
 A blog starter template with [Astro](https://github.com/withastro/astro) and [Simple.css](https://github.com/kevquirk/simple.css). Based on the [Astro blog example](https://github.com/withastro/astro/tree/main/examples/blog).
 
-[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/lkhrs/astro-simple/tree/main/)
+[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/lkhrs/astro-simple/tree/main/) [![Open in Codeanywhere](https://codeanywhere.com/img/open-in-codeanywhere-btn.svg)](https://app.codeanywhere.com/#https://github.com/lkhrs/astro-simple/tree/main/)
 
 Features:
 
