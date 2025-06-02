@@ -16,6 +16,6 @@
     "@astrojs/sitemap": "^3.4.0",
     "astro": "^5.7.13",
     "date-fns": "^4.1.0",
-    "simpledotcss": "^2.3.6"
+    "simpledotcss": "^2.3.7"
   }
 }
