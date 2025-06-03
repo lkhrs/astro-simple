@@ -1,0 +1,6 @@
+name = "astro-simple"
+compatibility_date = "2025-06-02"
+workers_dev = true
+
+[assets]
+directory = "./dist"
