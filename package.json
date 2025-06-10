@@ -20,6 +20,6 @@
     "simpledotcss": "^2.3.7"
   },
   "devDependencies": {
-    "wrangler": "^4.18.0"
+    "wrangler": "^4.19.1"
   }
 }
