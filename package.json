@@ -12,14 +12,14 @@
     "astro": "astro"
   },
   "dependencies": {
-    "@astrojs/mdx": "^4.3.9",
-    "@astrojs/rss": "^4.0.13",
-    "@astrojs/sitemap": "^3.6.0",
-    "astro": "^5.15.3",
+    "@astrojs/mdx": "^4.3.13",
+    "@astrojs/rss": "^4.0.15",
+    "@astrojs/sitemap": "^3.7.0",
+    "astro": "^5.18.0",
     "date-fns": "^4.1.0",
     "simpledotcss": "^2.3.7"
   },
   "devDependencies": {
-    "wrangler": "^4.59.1"
+    "wrangler": "^4.69.0"
   }
 }
